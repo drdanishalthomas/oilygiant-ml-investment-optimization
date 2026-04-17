@@ -1,3 +1,4 @@
+![Project Banner](OilyGiant_Project_Banner.png)
 # OilyGiant Oil Well Investment Optimization
 
 ## Project Overview
